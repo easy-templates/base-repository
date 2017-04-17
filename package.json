@@ -1,0 +1,19 @@
+{
+  "name": "easy-base-repository",
+  "version": "1.0.0",
+  "description": "A base repository,help to create library quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easy-templates/easy-base-repository.git"
+  },
+  "author": "LiuYueKai (liuyuekainihao@163.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easy-templates/easy-base-repository/issues"
+  },
+  "homepage": "https://github.com/easy-templates/easy-base-repository#readme"
+}
